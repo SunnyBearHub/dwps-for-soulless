@@ -1,4 +1,4 @@
-# dwps-for-soulless
+# Short Description
 Some dwps for Soulless lol
-# is-soulless-cool?
+# Is soulless cool?
 Yes
